@@ -43,7 +43,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 I am currently a Computer Science student at Oregon State University with a focus on Simulation and Game programming.
 
 ### Work I've Done
-[database project](https://nraymon.github.io/CS340_Town_Simulator/) 
-[wasteagram mobile application](https://nraymon.github.io/Wasteagram/) 
-[Minimax 4x4 Othello bot](https://nraymon.github.io/MinimaxOthelloCS331Bot/) 
-[Naive Bayes' Inference](https://nraymon.github.io/SentimentAnalysisCS331/) 
+[database project](https://nraymon.github.io/CS340_Town_Simulator/)  
+[wasteagram mobile application](https://nraymon.github.io/Wasteagram/)  
+[Minimax 4x4 Othello bot](https://nraymon.github.io/MinimaxOthelloCS331Bot/)  
+[Naive Bayes' Inference](https://nraymon.github.io/SentimentAnalysisCS331/)  
