@@ -1,7 +1,7 @@
 # Nathan Raymon
 
 ### About Me
-I am currently a senior Computer Science student at Oregon State University with a focus on Simulation and Game programming. Before becoming a part of OSU, I graduated from Chemeketa Community College with in Associate's degree in Computer Science.
+I am currently a senior undergraduate Computer Science student at Oregon State University with a focus on Simulation and Game programming. Before becoming a part of OSU, I graduated from Chemeketa Community College with in Associate's degree in Computer Science.
 
 ### Work I've Done
 [Town Simulator -- Intro to Databases project](https://nraymon.github.io/CS340_Town_Simulator/)  
