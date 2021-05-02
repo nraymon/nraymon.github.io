@@ -8,7 +8,7 @@ I am currently a senior undergraduate Computer Science student at Oregon State U
 [Wasteagram -- Mobile Software Development application](https://nraymon.github.io/Wasteagram/)  
 [Minimax 4x4 Othello bot -- Intro to AI](https://nraymon.github.io/CS331OthelloBot/)  
 [Sentiment Analysis using Naive Bayes' Inference -- Intro to AI](https://nraymon.github.io/nraymon-SentimentAnalysisCS331/) 
-[Educational Game Computer Science Capstone Project](https://github.com/cs361f2019-osu/BuildYourNeighborhood-1/tree/kindaRotateFix)
+[Educational Game Computer Science Capstone Project](https://github.com/cs361f2019-osu/BuildYourNeighborhood-1/tree/kindaRotateFix) 
 
 ### Links
 [Github](https://github.com/nraymon)  
